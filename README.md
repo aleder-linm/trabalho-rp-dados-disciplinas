@@ -1,0 +1,50 @@
+# Etapas a serem realizadas
+## Situação em 2013
+- [ ] Primeiro periodo
+    - [X] Média da nota final da disciplina 1
+    - [X] Média da nota final da disciplina 2
+    - [X] Média da nota final da disciplina 3
+    - [X] Média da nota final da disciplina 4
+    - [X] Média da nota final da disciplina 5
+    - [X] Mediana da nota final da disciplina 1
+    - [X] Mediana da nota final da disciplina 2
+    - [X] Mediana da nota final da disciplina 3
+    - [X] Mediana da nota final da disciplina 4
+    - [X] Mediana da nota final da disciplina 5
+    - [X] Desvio padrão da nota final da disciplina 1
+    - [X] Desvio padrão da nota final da disciplina 2
+    - [X] Desvio padrão da nota final da disciplina 3
+    - [X] Desvio padrão da nota final da disciplina 4
+    - [X] Desvio padrão da nota final da disciplina 5
+    - [X] Plotagem do comportamento das notas finais da disciplina 1
+    - [X] Plotagem do comportamento das notas finais da disciplina 2
+    - [X] Plotagem do comportamento das notas finais da disciplina 3
+    - [X] Plotagem do comportamento das notas finais da disciplina 4
+    - [X] Plotagem do comportamento das notas finais da disciplina 5
+    - [ ] SVM (Uso: Classificação supervisionado)
+    - [ ] K-Means (Uso: Classificação não-Supervisionado)
+    - [ ] Multilayer Perceptron (Uso: Regressão)
+- [ ] Segundo periodo
+    - [X] Média da nota final da disciplina 1
+    - [X] Média da nota final da disciplina 2
+    - [X] Média da nota final da disciplina 3
+    - [X] Média da nota final da disciplina 4
+    - [X] Média da nota final da disciplina 5
+    - [X] Mediana da nota final da disciplina 1
+    - [X] Mediana da nota final da disciplina 2
+    - [X] Mediana da nota final da disciplina 3
+    - [X] Mediana da nota final da disciplina 4
+    - [X] Mediana da nota final da disciplina 5
+    - [X] Desvio padrão da nota final da disciplina 1
+    - [X] Desvio padrão da nota final da disciplina 2
+    - [X] Desvio padrão da nota final da disciplina 3
+    - [X] Desvio padrão da nota final da disciplina 4
+    - [X] Desvio padrão da nota final da disciplina 5
+    - [X] Plotagem do comportamento das notas finais da disciplina 1
+    - [X] Plotagem do comportamento das notas finais da disciplina 2
+    - [X] Plotagem do comportamento das notas finais da disciplina 3
+    - [X] Plotagem do comportamento das notas finais da disciplina 4
+    - [X] Plotagem do comportamento das notas finais da disciplina 5
+    - [ ] SVM (Uso: Classificação supervisionado)
+    - [ ] K-Means (Uso: Classificação não-Supervisionado)
+    - [ ] Multilayer Perceptron (Uso: Regressão)
